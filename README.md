@@ -17,4 +17,4 @@ O jogador só poderá errar 3 vezes, caso exceda essa quantidade terá que inici
 O jogo terá 3 fases inicialmente podendo ser expandidas futuramente. Bem como terá 3 níveis de dificuldade.
 Passará para o nível seguinte caso o jogador consiga encontrar a porta de saída do labirinto.
 Existirá um banco de perguntas sobre o assunto abordado, cada pergunta será sorteada deste banco de dados para que as mesmas não se repitam com frequência.
-Ao longo do jogo o jogador poderá “solicitar ajuda” nas indagações as quais for submetido, que vai consistir em algum conceito envolvido na questão atual, com o intuito de explanar para o aluno a sua possível dúvida.
+#### Ao longo do jogo o jogador poderá “solicitar ajuda” nas indagações as quais for submetido, que vai consistir em algum conceito envolvido na questão atual, com o intuito de explanar para o aluno a sua possível dúvida.
