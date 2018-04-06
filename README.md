@@ -4,7 +4,7 @@ Repositório para construção do projeto Portas lógicas, para as disciplinas d
 ## Objetivo
 O jogo educativo Logic-man tem como objetivo principal a apresentação de conteúdos envolvendo lógica proposicional de forma lúdica, assim, buscando envolver mais o público-alvo a que se propõe, apresentando também algumas questões de raciocínio lógico, buscando estimular a criança no desenvolvimento do seu pensamento crítico.
 
-##
+## Público-alvo
 Voltado principalmente para alunos do ensino fundamental II (6º ao 9º ano) e ensino médio. Pessoas que tenham interesse no assunto também podem ser atendidas. 
 
 ## Funcionalidades
