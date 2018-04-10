@@ -20,4 +20,4 @@ Voltado principalmente para alunos do ensino fundamental II (6º ao 9º ano) e e
 - Existirá um banco de perguntas sobre o assunto abordado, cada pergunta será sorteada deste banco de dados para que as mesmas não se repitam com frequência.
 - Ao longo do jogo o jogador poderá “solicitar ajuda” nas indagações as quais for submetido, que vai consistir em algum conceito envolvido na questão atual, com o intuito de explanar para o aluno a sua possível dúvida.
 
-O material utilizado, desde o próprio arquivo Scratch até as imagens serão disponibilizado [aqui](https://drive.google.com/open?id=1WfQpufBQdRZD_jyudexTfIJonYjmZ3Qm)
+O material utilizado, desde o próprio arquivo Scratch até as imagens serão disponibilizado [aqui](https://drive.google.com/open?id=1WfQpufBQdRZD_jyudexTfIJonYjmZ3Qm).
