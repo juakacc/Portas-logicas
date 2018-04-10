@@ -1,5 +1,6 @@
 # Logic-man
-Repositório para construção do projeto Portas lógicas, para as disciplinas de Software educacional e Linguagem de programação para educação
+Repositório para construção do projeto Logic-man, um joguinho para ensino de lógica de programação para crianças e adolescentes do ensino fundamental II e ensino médio.
+O desenvolvimento contemplará o projeto das disciplinas de Software educacional (SE) e Linguagem de programação para educação (LPE)
 
 ## Objetivo
 O jogo educativo Logic-man tem como objetivo principal a apresentação de conteúdos envolvendo lógica proposicional de forma lúdica, assim, buscando envolver mais o público-alvo a que se propõe, apresentando também algumas questões de raciocínio lógico, buscando estimular a criança no desenvolvimento do seu pensamento crítico.
