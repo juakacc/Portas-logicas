@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg121"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="nao.svg">
+  <defs
+     id="defs115" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="911.00061"
+     inkscape:cy="801.47453"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1269"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata118">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       aria-label="~"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.89431px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1.57235765"
+       id="text125">
+      <path
+         d="m 9.9617351,62.07602 h 7.4215289 c 0.44026,-1.949723 1.76104,-4.591284 4.402601,-4.591284 4.717074,0 7.169952,4.591284 14.339903,4.591284 7.861789,0 12.012813,-8.17626 12.075708,-14.277008 h -7.484423 c -0.628943,2.389984 -2.012618,5.283122 -4.717074,5.283122 -3.64787,0 -6.918374,-4.654179 -14.214114,-4.654179 -8.17626,0 -11.8241299,8.239155 -11.8241299,13.648065 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bemio;-inkscape-font-specification:Bemio;fill:#00ff00;stroke-width:1.57235765"
+         id="path127" />
+    </g>
+  </g>
+</svg>
