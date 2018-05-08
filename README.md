@@ -1,5 +1,5 @@
 # Logic-man
-<img src="https://github.com/juakacc/logic-man/blob/master/images/logo-jogo.png"/>
+<img src="https://github.com/juakacc/logic-man/blob/master/images/logo-jogo.png" alt="logo do jogo" >
 
 Repositório para construção do projeto Logic-man, um joguinho para ensino de lógica de programação para crianças e adolescentes do ensino fundamental II e ensino médio.
 O desenvolvimento contemplará o projeto das disciplinas de Software educacional (SE) e Linguagem de programação para educação (LPE)
