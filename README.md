@@ -1,17 +1,17 @@
 # Logic-man
 ![Logo do jogo](http://olivedos.pb.gov.br/images/banners/logo-jogo.png)
 
-Repositório para construção do projeto Logic-man, um joguinho para ensino de lógica de programação para crianças e adolescentes do ensino fundamental II e ensino médio.
+Repositório para construção do projeto "Logic-man, o jogo"
 
 O desenvolvimento contemplará o projeto das disciplinas de Software educacional (SE) e Linguagem de programação para educação (LPE). A equipe é formada por @juakacc @geovanef46 @PatrickAnggellis @Clearlison
 
 ## Objetivo
-O jogo educativo Logic-man tem como objetivo principal a apresentação de conteúdos envolvendo lógica proposicional de forma lúdica, assim, buscando envolver mais o público-alvo a que se propõe, apresentando também algumas questões de raciocínio lógico, buscando estimular a criança no desenvolvimento do seu pensamento crítico.
+O jogo educativo "Logic-man, o jogo" tem como objetivo principal a apresentação de conteúdos envolvendo lógica proposicional de forma lúdica, assim, buscando envolver mais o público-alvo a que se propõe, apresentando também algumas questões de raciocínio lógico, buscando estimular a criança no desenvolvimento do seu pensamento crítico.
 
 ## Público-alvo
 Voltado principalmente para alunos do ensino fundamental II (6º ao 9º ano) e ensino médio. Pessoas que tenham interesse no assunto também podem ser atendidas. 
 
-## Funcionalidades
+## Funcionalidades e regras
 ### O jogo planeja oferecer as seguintes funcionalidades:
 - O ambiente do jogo será um labirinto em 2D, o qual será percorrido pelo personagem, o seu objetivo será sair do labirinto, entrando no túnel, possibilitando ao jogador avançar para o próximo nível.
 - O labirinto conterá portas, as quais serão abertas mediante a resposta correta de uma pergunta relacionada a lógica proposicional ou raciocínio lógico.
@@ -20,7 +20,7 @@ Voltado principalmente para alunos do ensino fundamental II (6º ao 9º ano) e e
 - O jogador poderá errar 3 vezes, inicialmente, caso exceda essa quantidade terá que iniciar o jogo novamente. (Cada chance será simbolizada por corações na tela, vidas).
 - A cada 3 acertos (30 pontos) o jogador ganhará uma vida.
 - O jogo terá 3 fases. Em cada fase o jogador vai explorar um ambiente educacional distinto, partindo inicialmente do ensino fundamental II, em busca de chegar à universidade.
-- Passará para o nível seguinte caso o jogador consiga solucionar um determinado número de indagações relacionadas à lógica.
+- Passará para o nível seguinte caso o jogador consiga solucionar sete indagações relacionadas à lógica.
 - Existirá um banco de perguntas sobre o assunto abordado, cada pergunta será sorteada neste banco de dados para que as mesmas não se repitam com frequência, sendo diferenciadas dependendo da fase do jogo em que o jogador se encontre.
 - Ao longo do jogo o jogador poderá “solicitar ajuda” nas indagações as quais for submetido, que vai consistir em algum conceito envolvido na questão atual, com o intuito de explanar para o aluno a sua possível dúvida.
 
