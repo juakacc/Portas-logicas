@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="btn_iniciar (copy).svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect33"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient26">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop22" />
+      <stop
+         style="stop-color:#a3a35c;stop-opacity:1"
+         offset="1"
+         id="stop24" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26"
+       id="linearGradient28"
+       x1="48.85342"
+       y1="85.900291"
+       x2="-1.7008941"
+       y2="72.198654"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-7.2602112e-5,3.7700306e-5)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="302.66115"
+     inkscape:cy="721.27351"
+     inkscape:document-units="mm"
+     inkscape:current-layer="text96"
+     showgrid="false"
+     inkscape:window-width="1269"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       aria-label="Iniciar"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text96">
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.89951533;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 4.6557706,45.055451 H 67.560456 V 67.378315 H 4.6557706 Z"
+         id="rect20-3" />
+      <g
+         aria-label="Nível 1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.36889648px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14134634"
+         id="text23-6">
+        <path
+           d="m 7.4719138,65.164062 0.3443231,-16.475336 0.6573439,-0.135642 1.3459901,1.544236 0.6260421,-1.648577 0.250417,0.135643 3.975366,8.242885 0.584305,-0.187813 0.04174,-7.679447 0.427796,0.302587 0.448663,-0.573872 0.719948,1.064271 0.834723,-1.064271 -0.187813,16.475336 -0.177378,0.0626 -0.824289,-1.627709 -0.542569,1.690313 -0.511268,-0.323455 -0.406927,0.239983 -4.163179,-8.764587 -0.469531,0.04174 -0.281719,8.82719 -0.2921529,0.125209 -0.7721184,-1.304254 -0.7721183,1.116441 -0.323455,-0.219115 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.14134634"
+           id="path20" />
+        <path
+           d="M 19.617127,65.310138 V 52.017182 l 0.469531,-0.166944 0.709514,1.669445 0.897327,-1.606841 0.636476,0.344323 0.605174,-0.219115 -0.365191,13.512071 -0.260851,0.08347 -0.897327,-1.283386 -0.615608,1.126876 -0.553003,-0.208681 z m 0.584306,-15.045873 2.389393,-3.672779 0.490399,-0.04174 -0.146076,0.85559 1.283386,-0.10434 -0.135643,0.511267 0.448664,0.187813 -2.838057,2.525036 -0.511267,-0.511268 -0.751251,0.469531 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.14134634"
+           id="path22" />
+        <path
+           d="m 24.218534,51.850238 0.344323,-0.146077 0.959931,1.742483 0.386059,-1.533802 0.615608,0.427795 0.469532,-0.59474 1.982466,10.444466 0.386059,-0.104341 2.58764,-10.277521 0.365191,0.166945 0.636476,-0.365191 0.563437,1.544237 1.18948,-1.304254 0.135642,0.10434 -3.850157,13.637279 -0.469532,-0.04174 -0.594739,-0.834723 -0.991233,0.918195 -0.354757,-0.0626 -0.897327,-1.220782 -0.500834,1.043403 -0.313021,-0.125208 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.14134634"
+           id="path24" />
+        <path
+           d="m 35.560326,53.050151 0.292153,-0.688646 -0.146076,-0.281719 6.114342,-0.406927 0.187813,0.834723 -1.325122,0.918194 1.262517,0.38606 -0.166944,0.469531 -3.119776,0.281719 -0.07304,3.28672 3.119776,-0.104341 -0.354757,1.116442 0.615607,0.250417 -0.10434,0.573871 -3.23455,0.323455 0.135643,3.484967 3.224115,-0.125209 -0.20868,1.106008 0.573872,0.26085 -0.239983,0.813855 -5.039637,0.292153 0.08347,-1.085139 -1.304254,0.08347 0.135642,-9.995802 -0.26085,-0.427796 0.918194,-0.792986 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.14134634"
+           id="path26" />
+        <path
+           d="m 44.105797,52.465845 0.406927,0.0626 0.59474,-0.427796 0.626042,1.053838 1.106007,-1.481633 0.344323,0.114774 -0.365191,11.498303 h 3.526703 l -0.876459,0.740816 1.199914,0.469532 -0.605174,0.730382 0.219115,0.302587 -4.810089,0.354757 -0.187813,-1.168612 -1.137309,0.166945 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.14134634"
+           id="path28" />
+        <path
+           d="m 56.386653,51.808501 4.298821,-3.672779 0.615608,1.18948 1.043403,-0.636476 -0.125208,14.075509 2.389393,-0.02087 0.135642,0.64691 -1.074705,0.740817 1.032969,0.667778 -0.563438,0.573871 -6.667346,0.104341 0.792987,-0.657344 -1.179046,-0.751251 0.667778,-0.406927 -0.386059,-0.782552 2.420695,-0.281719 -0.386059,-9.974934 -1.930296,0.939063 -0.354757,-0.239983 0.740816,-1.45033 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.14134634"
+           id="path30" />
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot149"
+         style="fill:black;fill-opacity:1;stroke:none;font-family:'URW Gothic L';font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'URW Gothic L';font-stretch:normal;font-variant:normal"><flowRegion
+           id="flowRegion151"><rect
+             id="rect153"
+             width="349.31076"
+             height="141.42136"
+             x="-318.90515"
+             y="153.7834" /></flowRegion><flowPara
+           id="flowPara155" /></flowRoot>    </g>
+  </g>
+</svg>
