@@ -1,4 +1,4 @@
-# Logic-man
+# Logic-man, o jogo
 ![Logo do jogo](http://olivedos.pb.gov.br/images/banners/logo-jogo.png)
 
 Repositório para construção do projeto "Logic-man, o jogo"
