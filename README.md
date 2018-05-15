@@ -1,5 +1,5 @@
 # Logic-man
-![Logo do jogo](https://github.com/juakacc/logic-man/blob/master/images/logo-jogo.png)
+![Logo do jogo](http://olivedos.pb.gov.br/images/banners/logo-jogo.png)
 
 Repositório para construção do projeto Logic-man, um joguinho para ensino de lógica de programação para crianças e adolescentes do ensino fundamental II e ensino médio.
 
