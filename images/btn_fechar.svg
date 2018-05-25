@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="btn_fechar.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect33"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient26">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop22" />
+      <stop
+         style="stop-color:#a3a35c;stop-opacity:1"
+         offset="1"
+         id="stop24" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26"
+       id="linearGradient28"
+       x1="48.85342"
+       y1="85.900291"
+       x2="-1.7008941"
+       y2="72.198654"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-7.2602112e-5,3.7700306e-5)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568544"
+     inkscape:cx="29.036711"
+     inkscape:cy="944.19776"
+     inkscape:document-units="mm"
+     inkscape:current-layer="text96"
+     showgrid="false"
+     inkscape:window-width="1269"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       aria-label="Você  perdeu! :("
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.60621262px;line-height:1;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24015531"
+       id="text96">
+      <path
+         style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.61799997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 13.790462,42.196288 A 5.051394,5.051394 0 0 1 9.5325479,47.930583 5.051394,5.051394 0 0 1 3.7964857,43.675049 5.051394,5.051394 0 0 1 8.049637,37.937221 5.051394,5.051394 0 0 1 13.789231,42.187989 L 8.7931671,42.933594 Z"
+         id="path21" />
+      <g
+         aria-label="x"
+         transform="scale(1.2943248,0.77260359)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.00318813px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08407351"
+         id="text25">
+        <path
+           d="m 4.01419,51.330765 0.1982873,-0.123074 0.7247744,0.546999 0.02735,-0.615374 0.1572624,0.06837 0.3623872,-0.157263 1.2922864,2.94696 1.3401488,-3.08371 0.3487122,0.08205 0.1025624,0.970924 0.6974244,-0.690586 0.1982874,0.06837 -1.6273236,4.150359 1.7367235,4.280272 -0.4717871,-0.08205 -0.061538,0.321362 L 8.2739489,59.610971 8.0209616,59.946008 6.7286752,57.142636 5.4705763,60.226345 H 5.0671641 L 4.9372517,59.583621 4.2261523,59.987033 4.0962399,59.918658 5.6962136,55.884537 Z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.08407351"
+           id="path27" />
+      </g>
+    </g>
+  </g>
+</svg>
