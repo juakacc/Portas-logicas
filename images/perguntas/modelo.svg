@@ -26,16 +26,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="201.92039"
-     inkscape:cy="604.51528"
+     inkscape:cx="368.04074"
+     inkscape:cy="1043.0807"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1269"
+     inkscape:window-width="1366"
      inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -53,81 +54,21 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:0.32466269;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       y="104.32246"
+       x="8.9366007"
+       height="38.891811"
+       width="126.65166"
+       id="rect334"
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:0.38010538;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:0.3564266;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect10"
        width="126.67534"
-       height="28.368322"
+       height="34.190788"
        x="8.168808"
-       y="13.371188" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.26951599px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38173789"
-       x="10.117541"
-       y="33.598557"
-       id="text14"><tspan
-         sodipodi:role="line"
-         id="tspan12"
-         x="10.117541"
-         y="33.598557"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.38173789">2+6=7</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.26951599px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38173789"
-       x="64.784721"
-       y="33.326153"
-       id="text14-7"><tspan
-         sodipodi:role="line"
-         id="tspan12-1"
-         x="64.784721"
-         y="33.326153"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.38173789">17 &gt; 12 = </tspan></text>
+       y="7.5487218" />
     <g
-       id="g18"
-       transform="matrix(1.442789,0,0,1.442789,63.227144,-151.39182)">
-      <rect
-         y="116.61086"
-         x="36.947174"
-         height="14.835566"
-         width="10.583333"
-         id="rect847"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90325642px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-         x="38.399746"
-         y="129.45399"
-         id="text40"><tspan
-           sodipodi:role="line"
-           id="tspan38"
-           x="38.399746"
-           y="129.45399"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;fill:#00ff00;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">?</tspan></text>
-    </g>
-    <g
-       transform="matrix(0.64435769,0,0,0.64435769,48.307398,22.682021)"
-       id="ID0.7293403940275311">
-      <g
-         id="layer1-3">
-        <g
-           id="text10">
-          <path
-             style="fill:#003fff;stroke:none;stroke-width:2.32666159"
-             inkscape:connector-curvature="0"
-             id="path9"
-             d="M -5.574,39.692 -70.757,76.991 V 54.924 L -44.291,39.728 -70.757,24.605 V 2.538 Z"
-             transform="matrix(1.4872706e-4,0.24039923,0.24039923,-1.4872706e-4,-0.5,17.5)" />
-        </g>
-      </g>
-    </g>
-    <rect
-       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:0.39596769;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect10-6"
-       width="126.74348"
-       height="42.174984"
-       x="9.9556437"
-       y="100.48025" />
-    <g
-       transform="matrix(0.64435768,0,0,0.64435768,71.532498,126.63599)"
+       transform="matrix(0.64435768,0,0,0.64435768,59.757963,150.47376)"
        id="ID0.7293403940275311-6">
       <g
          id="layer1-3-0">
@@ -144,39 +85,39 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.43835497px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13595887"
-       x="10.868137"
-       y="106.78767"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.82200336px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14555006"
+       x="9.8483295"
+       y="110.86234"
        id="text14-2"><tspan
-         id="tspan927"
          sodipodi:role="line"
-         x="10.868137"
-         y="106.78767"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.13595887">q: O Brasil é formado por 26 estados + Distrito Federal.</tspan><tspan
+         x="9.8483295"
+         y="110.86234"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.14555006"
+         id="tspan1215">q: Thor faz parte dos Vingadores.</tspan><tspan
          sodipodi:role="line"
-         x="10.868137"
-         y="113.608"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.13595887"
-         id="tspan1211">p: O menor estado em área territorial é o Sergipe.</tspan><tspan
+         x="9.8483295"
+         y="118.16382"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;fill:#000080;stroke-width:0.14555006"
+         id="tspan1670">p: Superman faz parte dos Vingadores.</tspan><tspan
          sodipodi:role="line"
-         x="10.868137"
-         y="120.42833"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.13595887"
-         id="tspan1215">r: O maior estado em área territorial é o Amazonas.</tspan></text>
+         x="9.8483295"
+         y="125.46529"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.14555006"
+         id="tspan1364">então:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.68317413px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.51707935"
-       x="17.968849"
-       y="139.53377"
+       x="39.030476"
+       y="138.7572"
        id="text14-7-1"><tspan
          sodipodi:role="line"
          id="tspan12-1-2"
-         x="17.968849"
-         y="139.53377"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.51707935">q      (p    r) = </tspan></text>
+         x="39.030476"
+         y="138.7572"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.51707935">p   q = </tspan></text>
     <g
        id="g734"
-       transform="translate(72.654696,3.1249137)">
+       transform="translate(6.9474659,3.5282844)">
       <rect
          y="120.11445"
          x="43.57272"
@@ -197,7 +138,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;fill:#00ff00;stroke:#000000;stroke-width:0.1442789;stroke-miterlimit:4;stroke-dasharray:none">?</tspan></text>
     </g>
     <g
-       transform="matrix(0.60814044,0,0,0.60814044,114.46397,170.28297)"
+       transform="matrix(0.60814044,0,0,0.60814044,83.696749,126.17251)"
        id="ID0.1613758858293295">
       <g
          id="ID0.04199532698839903">
@@ -221,8 +162,57 @@
            transform="matrix(0.23988406,0,0,0.23988406,0.25,0)" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.26951599px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38173789"
+       x="111.9135"
+       y="33.674347"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         x="111.9135"
+         y="33.674347"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.38173789">=</tspan></text>
     <g
-       transform="matrix(0.74416103,0,0,0.74416103,129.73236,151.53578)"
+       id="g18"
+       transform="matrix(1.442789,0,0,1.442789,-7.371966,-150.44716)">
+      <rect
+         y="116.61086"
+         x="36.947174"
+         height="14.835566"
+         width="10.583333"
+         id="rect847"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90325642px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="38.399746"
+         y="129.45399"
+         id="text40"><tspan
+           sodipodi:role="line"
+           id="tspan38"
+           x="38.399746"
+           y="129.45399"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;fill:#00ff00;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">?</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.64435769,0,0,0.64435769,-27.621153,9.0520191)"
+       id="ID0.7293403940275311">
+      <g
+         id="layer1-3">
+        <g
+           id="text10">
+          <path
+             style="fill:#003fff;stroke:none;stroke-width:2.32666159"
+             inkscape:connector-curvature="0"
+             id="path9"
+             d="M -5.574,39.692 -70.757,76.991 V 54.924 L -44.291,39.728 -70.757,24.605 V 2.538 Z"
+             transform="matrix(1.4872706e-4,0.24039923,0.24039923,-1.4872706e-4,-0.5,17.5)" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.74416103,0,0,0.74416103,117.19038,21.369319)"
        id="ID0.4852326139807701">
       <g
          id="ID0.5663091018795967">
@@ -258,7 +248,7 @@
          y="79.175331"
          style="stroke-width:0.26458332">q E NAO (p OU r) = ?</tspan></text>
     <g
-       transform="matrix(0.62762631,0,0,0.62762631,28.02047,126.89307)"
+       transform="matrix(0.62762631,0,0,0.62762631,93.615749,157.79941)"
        id="ID0.6630116063170135">
       <g
          id="layer1-6">
@@ -274,7 +264,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.64399969,0,0,0.64399969,40.296669,129.51449)"
+       transform="matrix(0.64399969,0,0,0.64399969,38.693052,158.25611)"
        id="ID0.18518446339294314">
       <g
          id="layer1-35">
@@ -289,5 +279,54 @@
         </g>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.78488922px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14462222"
+       x="9.4095306"
+       y="14.023372"
+       id="text14-2-3"><tspan
+         sodipodi:role="line"
+         x="9.4095306"
+         y="14.023372"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.14462222"
+         id="tspan1215-7">Use um conectivo lógico para completar a expressão:</tspan></text>
+    <rect
+       style="opacity:1;fill:#e580ff;fill-opacity:1;stroke:#e580ff;stroke-width:0.46005794;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1090"
+       width="29.451096"
+       height="16.032942"
+       x="14.219436"
+       y="20.483538"
+       ry="4.1839027" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.26951599px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38173789"
+       x="15.009527"
+       y="34.24099"
+       id="text14-7"><tspan
+         sodipodi:role="line"
+         id="tspan12-1"
+         x="15.009527"
+         y="34.24099"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;fill:#000000;stroke-width:0.38173789">4 &lt; 7 </tspan></text>
+    <rect
+       style="opacity:1;fill:#e580ff;fill-opacity:1;stroke:#e580ff;stroke-width:0.59195274;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1090-5"
+       width="49.162952"
+       height="15.901049"
+       x="62.774254"
+       y="20.549484"
+       ry="4.1494842" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.26951599px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38173789"
+       x="63.498398"
+       y="34.427563"
+       id="text14-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan12-1-5"
+         x="63.498398"
+         y="34.427563"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;fill:#000000;stroke-width:0.38173789">7 + 3 = 9 </tspan></text>
   </g>
 </svg>
