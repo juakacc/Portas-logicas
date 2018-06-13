@@ -1,6 +1,8 @@
 # Logic-man, o jogo
 ![Logo do jogo](http://olivedos.pb.gov.br/images/banners/logo-jogo.png)
 
+Download: [última versão](https://github.com/juakacc/logic-man/releases/download/v1.0.0/logic-man.exe)
+
 Repositório para construção do projeto "Logic-man, o jogo"
 
 O desenvolvimento contemplará o projeto das disciplinas de Software educacional (Professor Alysson Milanez) e Linguagem de programação para educação (Professora Alanna Coêlho). A equipe é formada por @juakacc @geovanef46 @PatrickAnggellis @Clearlison
