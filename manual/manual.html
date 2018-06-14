@@ -2,74 +2,10 @@
 <html lang="pt">
 <head>
 	<meta charset="UTF-8">
+    <link rel="stylesheet" href="css/style.css">
 	<title>Manual: Logic-man, o jogo</title>
-
-<style>
-    .p {
-        text-indent: 3em;
-        text-align: justify;
-    }
-
-    .sessao {
-        font-weight: bold;
-    }
-
-    /**THE SAME CSS IS USED IN ALL 3 DEMOS**/
-    /**gallery margins**/
-    ul.gallery{
-        margin-left: 3vw;
-        margin-right:3vw;
-    }
-
-    .zoom {
-        -webkit-transition: all 0.35s ease-in-out;
-        -moz-transition: all 0.35s ease-in-out;
-        transition: all 0.35s ease-in-out;
-        cursor: -webkit-zoom-in;
-        cursor: -moz-zoom-in;
-        cursor: zoom-in;
-    }
-
-    .zoom:hover,
-    .zoom:active,
-    .zoom:focus {
-        /**adjust scale to desired size,
-        add browser prefixes**/
-        -ms-transform: scale(2.5);
-        -moz-transform: scale(2.5);
-        -webkit-transform: scale(2.5);
-        -o-transform: scale(2.5);
-        transform: scale(2.5);
-        position:relative;
-        z-index:100;
-    }
-
-    /**To keep upscaled images visible on mobile,
-    increase left & right margins a bit**/
-    @media only screen and (max-width: 768px) {
-        ul.gallery {
-            margin-left: 15vw;
-            margin-right: 15vw;
-        }
-
-        /**TIP: Easy escape for touch screens,
-        give gallery's parent container a cursor: pointer.**/
-        .DivName {cursor: pointer}
-    }
-
-    .figura  {
-        max-width:500px;
-        max-height:150px;
-        width: auto;
-        height: auto;
-    }
-
-    .real {
-        max-width: 100%;
-    }
-</style>
-
 </head>
+
 <body>
 	<h1>Manual de "Logic-man, o jogo"</h1>
 
@@ -82,7 +18,70 @@
         </figure>
     </div>
 
+    <p>Nessa tela o jogador poderá escolher entre as opções:</p>
+    <ul>
+        <li>Iniciar jogo</li>
+        <li>Opções</li>
+        <li>Regras</li>
+    </ul>
     
+    <p>Iniciar jogo: Clicando nesse botão o jogador será direcionado para a fase inicial do jogo.</p>
+    
+    FOTO INICIAR JOGO
 
+    <p>Opções: Clicando nesse botão será mostrado para o jogador uma lista de opções, dentre elas os níveis do jogo, em que ele pode escolher ir diretamente para alguma fase.</p>
+
+    FOTO DO MENU OPÇÔES 
+
+    <p>Regras: Clicando nesse botão será mostrado para o jogador a lista de regras do jogo, é recomendado a leitura com atenção para realizar um bom jogo.</p>
+    <p>Para oculta-la basta o jogador clicar no retângulo das regras</p>
+
+    FOTO DAS REGRAS
+
+    <h3>Jogando...</h3>
+
+    <p>Ao iniciar o jogo o jogador é redirecionado para o ambiente onde se passa o roteiro do jogo, naturalmente ele se inicia no nível 1, sua interface é mostrada na figura abaixo:</p>
+
+    FOTO DO NIVEL 1
+
+    <p>A interface do jogo é acompanhada de diversas funcionalidades, são elas:</p>
+
+    <ol>
+        <li>Painel de informações com: pontuação atual, número de vidas e nível atual</li>
+        <li>Local para recolhimento dos conectivos lógicos</li>
+        <li>Botão de menu</li>
+        <li>Controle de som</li>
+        <li>Botão de pausa</li>
+        <li>Botão de ajuda</li>
+        <li>Jogador</li>
+        <li>Portas</li>
+        <li>Ambiente de movimentação</li>
+    </ol>
+
+    <p>O jogador poderá percorrer livremente os corredores da escola, recolhendo os símbolos e abrindo as portas</p>
+
+    <p>Ao recolher todos os conectivos lógicos, eles ficarão a disposição na parte superior, designada para eles</p>
+
+    <p>Botão de ajuda</p>
+
+    <p>Ao clicar no botão de ajuda será exibido para o jogador a tela de ajuda, nela estão dispostas algumas funcionalidades:</p>
+
+    FOTO DA TELA DE AJUDA
+
+    <ol>
+        <li>Menu para ajuda sobre os conectivos lógicos</li>
+        <li>Botão para regras</li>
+        <li>Botão fechar</li>
+    </ol>
+
+    <p>Ao abrir todas as portas de um nível será exibido um cano, de cor verde, o jogador pode utilizá-lo para passar de nível</p>
+
+    FOTO DO CANO
+
+    <p>Ao passar de nível ele será redirecionado para o nível seguindo, seguindo as mesmas regras, mas agora em um ambiente diferente do anterior.</p>
+
+    FOTO DO NÌVEL 2 COM MONSTRO
+
+    <p>No nível 2 a dificuldade aumenta, tanto na dificuldade das questões, como também para percorrer os corredores, agora temos um monstrinho na sua perseguição.</p>
 </body>
 </html>
