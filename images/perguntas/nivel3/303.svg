@@ -15,7 +15,7 @@
    version="1.1"
    id="svg1291"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="08.svg">
+   sodipodi:docname="303.svg">
   <defs
      id="defs1285" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="400"
-     inkscape:cy="560"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="441.4277"
+     inkscape:cy="1050.8423"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,7 +53,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:0.39596769;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#c6e9af;fill-opacity:1;stroke:#c6e9af;stroke-width:0.39596769;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 7.6877842,6.7934608 H 134.43126 V 48.968445 H 7.6877842 Z"
        id="rect10-6" />
     <g
@@ -73,9 +73,7 @@
       </g>
     </g>
     <g
-       aria-label="q: O Brasil é formado por 26 estados + Distrito Federal.
-p: O menor estado em área territorial é o Sergipe.
-r: O maior estado em área territorial é o Amazonas."
+       aria-label="q: O Brasil é formado por 26 estados + Distrito Federal. p: O menor estado em área territorial é o Sergipe. r: O maior estado em área territorial é o Amazonas."
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.43835497px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13595887"
        id="text14-2">
       <path

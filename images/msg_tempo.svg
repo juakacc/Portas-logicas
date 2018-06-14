@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="msg_acerto (copy).svg">
+   sodipodi:docname="msg_tempo.svg">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -71,7 +71,7 @@
      inkscape:cx="280.4047"
      inkscape:cy="772.32191"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g252"
      showgrid="false"
      inkscape:window-width="1269"
      inkscape:window-height="704"
@@ -113,7 +113,7 @@
            x="82.909012"
            y="90.129272"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.06354109"
-           id="tspan31">você tem __s </tspan><tspan
+           id="tspan31">você tem 30s </tspan><tspan
            id="tspan204"
            sodipodi:role="line"
            x="80.800613"

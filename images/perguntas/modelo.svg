@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="368.04074"
-     inkscape:cy="1043.0807"
+     inkscape:zoom="0.7"
+     inkscape:cx="215.23463"
+     inkscape:cy="1083.4567"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:window-width="717"
+     inkscape:window-height="518"
+     inkscape:window-x="523"
+     inkscape:window-y="63"
+     inkscape:window-maximized="0"
      showguides="false" />
   <metadata
      id="metadata5">
@@ -54,70 +54,54 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       y="104.32246"
-       x="8.9366007"
-       height="38.891811"
-       width="126.65166"
+       y="104.36937"
+       x="8.98351"
+       height="60.504757"
+       width="126.55784"
        id="rect334"
-       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:0.38010538;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#c6e9af;fill-opacity:1;stroke:#c6e9af;stroke-width:0.4739241;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#cccccc;stroke-width:0.3564266;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#c6e9af;fill-opacity:1;stroke:#c6e9af;stroke-width:0.3564266;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect10"
        width="126.67534"
        height="34.190788"
        x="8.168808"
        y="7.5487218" />
-    <g
-       transform="matrix(0.64435768,0,0,0.64435768,59.757963,150.47376)"
-       id="ID0.7293403940275311-6">
-      <g
-         id="layer1-3-0">
-        <g
-           id="text10-6">
-          <path
-             style="fill:#003fff;stroke:none;stroke-width:2.32666159"
-             inkscape:connector-curvature="0"
-             id="path9-2"
-             d="M -5.574,39.692 -70.757,76.991 V 54.924 L -44.291,39.728 -70.757,24.605 V 2.538 Z"
-             transform="matrix(1.4872706e-4,0.24039923,0.24039923,-1.4872706e-4,-0.5,17.5)" />
-        </g>
-      </g>
-    </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.82200336px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14555006"
-       x="9.8483295"
-       y="110.86234"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.82871437px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19571784"
+       x="9.829442"
+       y="112.5023"
        id="text14-2"><tspan
          sodipodi:role="line"
-         x="9.8483295"
-         y="110.86234"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.14555006"
-         id="tspan1215">q: Thor faz parte dos Vingadores.</tspan><tspan
+         x="9.829442"
+         y="112.5023"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;fill:#000000;stroke-width:0.19571784"
+         id="tspan88">p: Vênus é um planeta do sistema solar</tspan><tspan
          sodipodi:role="line"
-         x="9.8483295"
-         y="118.16382"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;fill:#000080;stroke-width:0.14555006"
-         id="tspan1670">p: Superman faz parte dos Vingadores.</tspan><tspan
+         x="9.829442"
+         y="122.32042"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;fill:#000000;stroke-width:0.19571784"
+         id="tspan1364">q: Terra é um planeta do sistema solar</tspan><tspan
          sodipodi:role="line"
-         x="9.8483295"
-         y="125.46529"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.14555006"
-         id="tspan1364">então:</tspan></text>
+         x="9.829442"
+         y="132.13853"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;fill:#000000;stroke-width:0.19571784"
+         id="tspan6147">então:</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.68317413px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.51707935"
-       x="39.030476"
-       y="138.7572"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.99907494px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4749769"
+       x="24.285126"
+       y="152.70409"
        id="text14-7-1"><tspan
          sodipodi:role="line"
          id="tspan12-1-2"
-         x="39.030476"
-         y="138.7572"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.51707935">p   q = </tspan></text>
+         x="24.285126"
+         y="152.70409"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.4749769">(   p)   (   q)=</tspan></text>
     <g
        id="g734"
-       transform="translate(6.9474659,3.5282844)">
+       transform="matrix(1.1116892,0,0,1.1116892,58.848316,2.5157039)">
       <rect
          y="120.11445"
          x="43.57272"
@@ -138,7 +122,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;fill:#00ff00;stroke:#000000;stroke-width:0.1442789;stroke-miterlimit:4;stroke-dasharray:none">?</tspan></text>
     </g>
     <g
-       transform="matrix(0.60814044,0,0,0.60814044,83.696749,126.17251)"
+       transform="matrix(0.60814044,0,0,0.60814044,59.905358,89.536843)"
        id="ID0.1613758858293295">
       <g
          id="ID0.04199532698839903">
@@ -165,17 +149,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.26951599px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38173789"
-       x="111.9135"
+       x="103.97601"
        y="33.674347"
        id="text14"><tspan
          sodipodi:role="line"
          id="tspan12"
-         x="111.9135"
+         x="103.97601"
          y="33.674347"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.38173789">=</tspan></text>
     <g
        id="g18"
-       transform="matrix(1.442789,0,0,1.442789,-7.371966,-150.44716)">
+       transform="matrix(1.442789,0,0,1.442789,56.128064,-150.44716)">
       <rect
          y="116.61086"
          x="36.947174"
@@ -196,7 +180,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;fill:#00ff00;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">?</tspan></text>
     </g>
     <g
-       transform="matrix(0.64435769,0,0,0.64435769,-27.621153,9.0520191)"
+       transform="matrix(0.64435769,0,0,-0.64435769,60.416153,33.858723)"
        id="ID0.7293403940275311">
       <g
          id="layer1-3">
@@ -212,7 +196,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.74416103,0,0,0.74416103,117.19038,21.369319)"
+       transform="matrix(0.74416103,0,0,0.74416103,151.66767,148.32436)"
        id="ID0.4852326139807701">
       <g
          id="ID0.5663091018795967">
@@ -248,23 +232,7 @@
          y="79.175331"
          style="stroke-width:0.26458332">q E NAO (p OU r) = ?</tspan></text>
     <g
-       transform="matrix(0.62762631,0,0,0.62762631,93.615749,157.79941)"
-       id="ID0.6630116063170135">
-      <g
-         id="layer1-6">
-        <g
-           id="text10-7">
-          <path
-             style="fill:#003fff;stroke:none;stroke-width:2.32666159"
-             inkscape:connector-curvature="0"
-             id="path9-5"
-             d="M -5.574,39.692 -70.757,76.991 V 54.924 L -44.291,39.728 -70.757,24.605 V 2.538 Z"
-             transform="matrix(1.5269185e-4,-0.24680784,0.24680784,1.5269185e-4,0.05,-1.3)" />
-        </g>
-      </g>
-    </g>
-    <g
-       transform="matrix(0.64399969,0,0,0.64399969,38.693052,158.25611)"
+       transform="matrix(0.59156292,0,0,0.59156292,28.862863,143.50058)"
        id="ID0.18518446339294314">
       <g
          id="layer1-35">
@@ -291,42 +259,391 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.14462222"
          id="tspan1215-7">Use um conectivo lógico para completar a expressão:</tspan></text>
     <rect
-       style="opacity:1;fill:#e580ff;fill-opacity:1;stroke:#e580ff;stroke-width:0.46005794;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#e580ff;fill-opacity:1;stroke:#e580ff;stroke-width:0.54227316;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1090"
-       width="29.451096"
-       height="16.032942"
-       x="14.219436"
-       y="20.483538"
-       ry="4.1839027" />
+       width="41.128738"
+       height="15.950727"
+       x="18.493877"
+       y="20.524645"
+       ry="4.1624479" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.26951599px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38173789"
-       x="15.009527"
-       y="34.24099"
+       x="19.242863"
+       y="34.539223"
        id="text14-7"><tspan
          sodipodi:role="line"
          id="tspan12-1"
-         x="15.009527"
-         y="34.24099"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;fill:#000000;stroke-width:0.38173789">4 &lt; 7 </tspan></text>
+         x="19.242863"
+         y="34.539223"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;fill:#000000;stroke-width:0.38173789">-12 &lt; 9</tspan></text>
     <rect
-       style="opacity:1;fill:#e580ff;fill-opacity:1;stroke:#e580ff;stroke-width:0.59195274;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#e580ff;fill-opacity:1;stroke:#e580ff;stroke-width:0.46436933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1090-5"
-       width="49.162952"
-       height="15.901049"
-       x="62.774254"
-       y="20.549484"
-       ry="4.1494842" />
+       width="30.01375"
+       height="16.028631"
+       x="73.2938"
+       y="20.485693"
+       ry="4.1827779" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.26951599px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38173789"
-       x="63.498398"
-       y="34.427563"
+       x="74.081741"
+       y="34.364544"
        id="text14-7-3"><tspan
          sodipodi:role="line"
          id="tspan12-1-5"
-         x="63.498398"
-         y="34.427563"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;fill:#000000;stroke-width:0.38173789">7 + 3 = 9 </tspan></text>
+         x="74.081741"
+         y="34.364544"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;fill:#000000;stroke-width:0.38173789">8 &gt; 9 </tspan></text>
+    <rect
+       style="opacity:1;fill:#c6e9af;fill-opacity:1;stroke:#c6e9af;stroke-width:0.35642663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect10-3"
+       width="126.67535"
+       height="34.190788"
+       x="4.5487866"
+       y="-56.053188" />
+    <g
+       id="g18-5"
+       transform="matrix(1.1420591,0,0,1.1420591,75.167709,-173.49705)">
+      <rect
+         y="116.61086"
+         x="36.947174"
+         height="14.835566"
+         width="10.583333"
+         id="rect847-3"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90325642px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="38.399746"
+         y="129.45399"
+         id="text40-5"><tspan
+           sodipodi:role="line"
+           id="tspan38-6"
+           x="38.399746"
+           y="129.45399"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;fill:#00ff00;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">?</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.1340003px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15335"
+       x="5.7372441"
+       y="-49.283546"
+       id="text14-2-3-0"><tspan
+         sodipodi:role="line"
+         x="5.7372441"
+         y="-49.283546"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.15335"
+         id="tspan1229">A negação da proposição <tspan
+   style="fill:#000080"
+   id="tspan5814">'maria não foi ao </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="5.7372441"
+         y="-41.590794"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.15335"
+         id="tspan5810"><tspan
+   style="fill:#000080"
+   id="tspan5816">cinema e paulo foi ao teatro'</tspan> é <tspan
+   style="fill:#000080"
+   id="tspan5818">'maria foi ao </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="5.7372441"
+         y="-33.898041"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.15335"
+         id="tspan5812"><tspan
+   style="fill:#000080"
+   id="tspan5820">cinema ou paulo não foi ao teatro'</tspan>?</tspan><tspan
+         sodipodi:role="line"
+         x="5.7372441"
+         y="-26.205286"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.15335"
+         id="tspan1327">       ou </tspan></text>
+    <g
+       transform="matrix(0.43296958,0,0,0.43296958,6.386642,-32.414901)"
+       id="ID0.1613758858293295-6">
+      <g
+         id="ID0.04199532698839903-1">
+        <g
+           id="ID0.4123793593607843-0">
+          <path
+             style="fill:#003fff"
+             inkscape:connector-curvature="0"
+             id="ID0.6994774197228253-6"
+             d="m 71.96,13.2 c 0,1.65 -0.3,3.3 -0.88,4.93 -1.58,4.67 -5.11,7.97 -9.67,9.25 -0.32,2.11 -0.91,5.63 -2.03,11.87 -0.03,0.14 -0.05,0.28 -0.08,0.42 -0.96,4.34 -2.33,10.95 -4.05,19.65 -0.33,1.97 -0.75,3.88 -1.26,5.67 -0.4,2.16 -0.83,4.3 -1.28,6.39 -0.03,0.15 -0.07,0.31 -0.11,0.46 -1.54,5.89 -5.22,10.23 -10.36,12.22 -0.06,0.02 -0.11,0.04 -0.16,0.06 -2.28,0.84 -4.22,1.23 -6.13,1.23 -2.62,0 -5.07,-0.76 -7.11,-2.21 C 27.15,81.97 25.28,80.43 24.03,77.95 23.54,76.97 23.2,75.92 23.02,74.83 23,74.74 22.91,74.22 22.6,72.96 22.31,72.13 21.61,70.14 20.5,67 20.43,66.79 20.36,66.57 20.3,66.36 19.96,65.18 19.43,63.39 18.71,60.99 17.94,58.65 17.2,56.24 16.49,53.82 15.35,50.27 13.68,44.92 11.41,37.52 10,37.24 8.62,36.8 7.3,36.18 6.48,35.79 5.71,35.31 5,34.73 1.82,32.13 0,28.29 0,24.19 0,18.1 3.67,12.93 9.36,11.03 9.43,11.01 9.49,10.99 9.56,10.97 12.8,9.96 15.62,9.37 18.15,9.2 18.89,9.04 19.73,8.89 20.7,8.74 21.55,8.61 22.42,8.59 23.27,8.66 23.41,8.65 23.77,8.61 24.41,8.48 26.2,8.12 27.54,7.91 28.65,7.81 28.88,7.44 29.13,7.08 29.4,6.74 31.15,4.54 34.46,1.8 40.27,1.19 40.36,1.18 40.45,1.17 40.53,1.16 41.9,1.05 44.01,0.85 46.86,0.57 47.05,0.55 47.25,0.54 47.45,0.53 48.73,0.47 50.45,0.41 52.62,0.36 54.32,0.22 55.41,0.13 55.89,0.08 56.34,0.03 56.8,0 57.26,0 c 9.65,0 14.7,6.64 14.7,13.2 z"
+             transform="matrix(0.23988406,0,0,0.23988406,0.25,0)" />
+        </g>
+      </g>
+      <g
+         id="ID0.1456912192516029-3">
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           id="ID0.9227194082923234-2"
+           d="m 60.693,14.517 c -0.527,1.643 -1.759,2.463 -3.694,2.463 -0.411,0 -1.231,-0.058 -2.463,-0.176 -0.998,-0.116 -1.759,-0.146 -2.287,-0.088 -0.118,0.06 -0.294,0.176 -0.527,0.352 -0.176,0.88 -0.471,3.05 -0.88,6.51 -0.235,1.994 -0.998,6.567 -2.287,13.722 -0.998,4.516 -2.375,11.201 -4.134,20.055 -0.294,1.818 -0.675,3.519 -1.144,5.102 -0.411,2.229 -0.851,4.429 -1.319,6.598 -0.646,2.463 -1.877,4.046 -3.694,4.75 -1.583,0.585 -2.61,0.703 -3.079,0.352 -0.763,-0.527 -1.202,-0.91 -1.319,-1.144 -0.118,-0.703 -0.352,-1.759 -0.703,-3.166 -0.118,-0.353 -0.88,-2.521 -2.287,-6.51 -0.352,-1.231 -0.91,-3.107 -1.671,-5.63 -0.764,-2.345 -1.496,-4.719 -2.199,-7.124 -1.174,-3.636 -2.962,-9.382 -5.366,-17.24 -0.41,-2.053 -1.114,-4.516 -2.11,-7.389 -2.463,0.587 -4.047,0.879 -4.75,0.879 -0.998,0 -1.936,-0.204 -2.814,-0.615 -0.646,-0.528 -0.968,-1.201 -0.968,-2.023 0,-1.407 0.615,-2.315 1.847,-2.727 2.815,-0.88 5.102,-1.319 6.861,-1.319 0.585,-0.176 1.465,-0.352 2.639,-0.528 1.056,0.118 2.463,0 4.222,-0.352 1.76,-0.352 2.932,-0.527 3.519,-0.527 0.88,0 1.672,0.176 2.375,0.527 0.586,0.528 0.88,1.203 0.88,2.023 0,1.466 -0.704,2.405 -2.111,2.814 -1.29,0.06 -3.05,0.439 -5.277,1.144 0.117,2.054 0.381,3.725 0.792,5.014 0.879,2.639 2.11,6.305 3.694,10.995 0.058,0.587 0.204,1.379 0.439,2.375 1.231,4.692 3.312,11.318 6.245,19.879 0.352,-0.819 0.792,-2.429 1.319,-4.828 0.645,-3.395 1.056,-5.414 1.231,-6.059 1.056,-4.097 1.964,-8.281 2.727,-12.555 1.113,-5.853 1.7,-8.925 1.76,-9.218 0.761,-3.687 1.289,-6.643 1.583,-8.867 0.233,-1.639 0.439,-3.248 0.615,-4.829 -0.059,-0.058 -0.118,-0.116 -0.176,-0.176 -3.988,0.06 -6.157,0.06 -6.509,0 -0.527,0 -1.231,-0.462 -2.111,-1.387 0,-0.058 0.044,-0.145 0.132,-0.26 0.089,-0.115 0.161,-0.203 0.221,-0.261 -0.06,-0.347 -0.03,-0.837 0.088,-1.474 0.645,-0.808 1.788,-1.3 3.431,-1.474 1.407,-0.115 3.576,-0.317 6.509,-0.607 1.289,-0.058 3.048,-0.115 5.277,-0.173 2.814,-0.23 4.163,-0.347 4.046,-0.347 2.463,0 3.694,0.734 3.694,2.199 -0.003,0.412 -0.091,0.852 -0.267,1.32 z"
+           transform="matrix(0.23988406,0,0,0.23988406,0.25,0)" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.48804329,0,0,0.48804329,21.938244,-32.584192)"
+       id="ID0.4852326139807701-0">
+      <g
+         id="ID0.5663091018795967-6">
+        <g
+           id="ID0.3804601556621492-1">
+          <path
+             style="fill:#003fff"
+             inkscape:connector-curvature="0"
+             id="ID0.027033838909119368-5"
+             d="m 70.109,20.47 c -0.05,0.65 -0.08,1.2 -0.1,1.66 0.19,0.78 0.32,1.66 0.32,2.64 0,0.22 0.02,0.52 0.04,0.91 0.12,1.62 -0.13,3.25 -0.73,4.77 -0.48,1.23 -1.14,2.39 -2.09,3.67 -0.82,1.11 -1.84,2.06 -3.01,2.79 -2.52,1.57 -5.44,2.37 -8.69,2.37 -0.57,0 -1.14,-0.03 -1.69,-0.09 -0.08,1.01 -0.28,1.98 -0.58,2.9 -0.15,0.44 -0.32,0.88 -0.52,1.3 0.04,0.66 0.11,1.52 0.21,2.62 0.96,7.29 -3.09,11.05 -4.91,12.35 -0.38,0.26 -0.76,0.52 -1.16,0.75 1.48,2.57 1.83,4.95 1.83,6.6 0,4.6 -2.46,8.69 -6.74,11.21 -0.24,0.14 -0.49,0.27 -0.74,0.4 -0.47,0.23 -0.97,0.49 -1.49,0.76 -1.6,0.86 -3.38,1.31 -5.2,1.31 h -6.63 c -0.29,0.05 -1.31,0.25 -3.48,0.99 -4.45,1.53 -7.48,2.18 -10.12,2.18 -2.11,0 -4.13,-0.38 -6.02,-1.14 -0.54,-0.21 -1.06,-0.47 -1.56,-0.77 -0.81,-0.49 -1.62,-1.07 -2.47,-1.79 -2.59,-2.19 -4.2,-5.34 -4.51,-8.87 -0.25,-2.69 0.18,-5.18 1.28,-7.38 0.05,-0.1 0.1,-0.2 0.15,-0.29 1.98,-3.69 5.14,-6.3 9.01,-7.54 0.02,-0.57 0.04,-1.17 0.07,-1.81 V 52.9 c -4.16,-2.25 -6.78,-6.66 -6.78,-12.02 0,-4.22 1.82,-7.97 5.01,-10.41 -2.18,-1.12 -4.05,-2.81 -5.43,-4.94 -1.45,-2.1 -2.21,-4.53 -2.21,-7.1 0,-5.32 3.21,-9.93 8.61,-12.37 2.54,-1.19 5.05,-1.82 7.47,-1.88 0.53,-0.03 1.63,-0.13 3.61,-0.46 2.73,-0.48 4.49,-0.78 5.28,-0.91 0.09,-0.01 0.17,-0.02 0.26,-0.03 2.83,-0.37 6.92,-0.82 12.49,-1.36 0.24,-0.03 0.47,-0.04 0.71,-0.05 3.18,-0.11 7.7,-0.46 13.45,-1.05 1.27,-0.22 2.44,-0.32 3.56,-0.32 2.02,0 3.9,0.36 5.6,1.06 0.04,0.02 0.08,0.03 0.13,0.05 4.28,1.84 7.22,5.71 7.92,10.39 0.21,1.25 0.21,2.55 0.14,4.48 -0.01,0.6 -0.06,1.63 -0.29,4.49 z"
+             transform="matrix(0.2200142,0,0,0.2200142,0,0.5)" />
+        </g>
+      </g>
+      <g
+         id="ID0.3863844624720514-5">
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           id="ID0.5626670885831118-4"
+           d="m 59.399,26.437 c -0.115,0.294 -0.346,0.675 -0.692,1.144 -0.751,0.47 -1.704,0.703 -2.858,0.703 -1.213,0 -1.892,-0.469 -2.037,-1.407 -0.146,-0.938 -0.159,-2.287 -0.041,-4.046 0.233,-2.345 0.352,-3.752 0.352,-4.223 0,-1.113 -0.178,-1.964 -0.529,-2.551 -2.412,0.176 -6.235,0.44 -11.471,0.792 -7.177,0.352 -12.616,1.056 -16.322,2.111 -0.059,0.646 -0.206,1.231 -0.44,1.759 0,0.411 0,0.968 0,1.671 0,1.115 0,2.317 0,3.606 0,3.343 0.469,6.892 1.407,10.644 2.169,0.118 5.277,-0.058 9.323,-0.527 0,-0.938 -0.059,-2.257 -0.176,-3.959 -0.176,-1.992 -0.278,-3.342 -0.308,-4.046 -0.03,-0.703 -0.103,-1.377 -0.22,-2.023 -0.06,-0.82 0.028,-1.495 0.264,-2.022 0.233,-0.528 0.908,-0.82 2.023,-0.88 1.056,-0.117 1.816,0 2.287,0.352 0.469,0.353 0.732,0.896 0.791,1.628 0.058,0.733 0.117,1.422 0.176,2.066 0.177,1.994 0.293,4.692 0.353,8.093 1.289,0.352 1.935,1.231 1.935,2.639 0,0.294 -0.03,0.528 -0.088,0.704 -0.294,0.294 -0.675,0.791 -1.144,1.495 -0.059,0.118 -0.059,0.587 0,1.407 0,1.231 0.117,3.138 0.353,5.718 0.176,1.114 0.058,1.818 -0.353,2.11 -0.997,0.704 -2.082,1.056 -3.254,1.056 -1.174,0 -1.848,-0.469 -2.023,-1.407 V 43.15 c -0.061,-0.469 -0.148,-1.144 -0.267,-2.022 -0.415,-0.234 -1.36,-0.293 -2.84,-0.176 -1.064,0.176 -2.159,0.322 -3.283,0.439 -0.829,-0.058 -2.012,0.176 -3.549,0.703 -0.061,-0.352 -0.089,1.379 -0.089,5.19 v 7.213 c 0,-0.059 -0.044,0.807 -0.132,2.595 -0.088,1.789 -0.132,3.152 -0.132,4.09 0,1.583 0,2.346 0,2.287 0.058,0.059 0.146,0.146 0.262,0.264 1.396,0 3.549,-0.117 6.46,-0.352 0.115,0 0.61,-0.088 1.484,-0.264 0.581,-0.177 1.047,-0.205 1.396,-0.088 0.465,0.173 0.915,0.548 1.353,1.125 0.437,0.578 0.655,1.096 0.655,1.558 0,0.635 -0.439,1.212 -1.319,1.73 -0.587,0.288 -1.202,0.605 -1.848,0.952 -0.41,0 -0.997,0 -1.759,0 h -5.102 c -1.467,0 -3.738,0.528 -6.817,1.583 -3.078,1.056 -5.264,1.584 -6.553,1.584 -0.704,0 -1.35,-0.118 -1.936,-0.353 -0.294,-0.176 -0.631,-0.426 -1.011,-0.747 -0.383,-0.323 -0.603,-0.807 -0.66,-1.451 -0.059,-0.645 0,-1.144 0.176,-1.496 0.88,-1.641 2.375,-2.491 4.486,-2.551 3.4,-0.176 5.131,-0.277 5.189,-0.308 0.058,-0.028 0.205,-0.189 0.439,-0.484 -0.059,-1.055 0.029,-4.719 0.265,-10.995 v -9.675 c -2.874,0 -4.457,0 -4.75,0 -1.35,-0.116 -2.023,-0.988 -2.023,-2.618 0,-0.815 0.26,-1.398 0.781,-1.747 0.346,-0.232 0.895,-0.553 1.646,-0.96 0.808,-0.115 1.992,-0.378 3.554,-0.786 -0.206,-1.512 -0.411,-3.723 -0.616,-6.634 0,-0.581 0.103,-1.818 0.309,-3.709 0.204,-1.892 0.308,-3.274 0.308,-4.148 0,-1.221 -0.176,-2.035 -0.527,-2.443 -0.471,0 -1.247,0.103 -2.331,0.308 -1.086,0.206 -1.892,0.308 -2.419,0.308 -1.35,0 -2.347,-0.557 -2.991,-1.671 -0.234,-0.293 -0.352,-0.616 -0.352,-0.968 0,-0.938 0.732,-1.729 2.199,-2.375 1.231,-0.585 2.315,-0.879 3.254,-0.879 1.29,-0.059 2.991,-0.265 5.103,-0.616 2.639,-0.469 4.339,-0.762 5.102,-0.88 2.696,-0.352 6.742,-0.791 12.139,-1.319 3.518,-0.116 8.385,-0.497 14.601,-1.144 1.584,-0.292 2.727,-0.292 3.431,0 0.82,0.353 1.289,1.027 1.407,2.023 0.058,0.235 0.058,1.056 0,2.463 0,0.47 -0.088,1.789 -0.264,3.958 -0.118,1.76 -0.176,3.167 -0.176,4.223 0,0.118 0.061,0.278 0.183,0.483 0.122,0.206 0.185,0.338 0.185,0.396 -0.001,0.411 0.023,0.967 0.071,1.671 z"
+           transform="matrix(0.2200142,0,0,0.2200142,0,0.5)" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="151.19048"
+       y="115.9494"
+       id="text1819"><tspan
+         sodipodi:role="line"
+         id="tspan1817"
+         x="151.19048"
+         y="125.78049"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.72160053px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24304"
+       x="62.811569"
+       y="145.77888"
+       id="text502"><tspan
+         sodipodi:role="line"
+         id="tspan500"
+         x="62.811569"
+         y="145.77888"
+         style="stroke-width:0.24304">  </tspan></text>
+    <g
+       id="g4186"
+       transform="matrix(0.65034101,0,0,0.65034101,-57.932658,46.104025)">
+      <path
+         inkscape:transform-center-y="-1.0200042e-06"
+         inkscape:transform-center-x="-1.2736777"
+         d="m 74.319832,136.07965 -10.16882,5.87097 v -11.74194 z"
+         inkscape:randomized="0"
+         inkscape:rounded="-3.9100667e-15"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.0471976"
+         sodipodi:arg1="0"
+         sodipodi:r2="4.2318625"
+         sodipodi:r1="6.7792134"
+         sodipodi:cy="136.07965"
+         sodipodi:cx="67.540619"
+         sodipodi:sides="3"
+         id="path4174"
+         style="opacity:1;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.65732366;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <rect
+         ry="0.48896253"
+         y="133.2856"
+         x="54.862099"
+         height="5.5881019"
+         width="10.690781"
+         id="rect4176"
+         style="opacity:1;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.63060498;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <rect
+       style="opacity:1;fill:#c6e9af;fill-opacity:1;stroke:#c6e9af;stroke-width:0.35642663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect10-6"
+       width="126.67535"
+       height="34.190788"
+       x="8.825099"
+       y="189.03296" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.89916229px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24747905"
+       x="79.071167"
+       y="209.54933"
+       id="text14-26"><tspan
+         sodipodi:role="line"
+         id="tspan12-18"
+         x="79.071167"
+         y="209.54933"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.24747905">=</tspan></text>
+    <g
+       id="g18-7"
+       transform="matrix(0.93535399,0,0,0.93535399,90.433742,90.184145)">
+      <rect
+         y="116.61086"
+         x="36.947174"
+         height="14.835566"
+         width="10.583333"
+         id="rect847-9"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90325642px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="38.399746"
+         y="129.45399"
+         id="text40-2"><tspan
+           sodipodi:role="line"
+           id="tspan38-0"
+           x="38.399746"
+           y="129.45399"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;fill:#00ff00;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">?</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.78488922px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14462222"
+       x="10.065822"
+       y="195.50761"
+       id="text14-2-3-2"><tspan
+         sodipodi:role="line"
+         x="10.065822"
+         y="195.50761"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;stroke-width:0.14462222"
+         id="tspan1215-7-2">Use um conectivo lógico para completar a expressão:</tspan></text>
+    <rect
+       style="opacity:1;fill:#e580ff;fill-opacity:1;stroke:#e580ff;stroke-width:0.38826975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1090-8"
+       width="32.644238"
+       height="10.302682"
+       x="9.2545547"
+       y="201.04349"
+       ry="2.6885529" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.89916229px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24747905"
+       x="8.9570427"
+       y="210.11003"
+       id="text14-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan12-1-7"
+         x="8.9570427"
+         y="210.11003"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;fill:#000000;stroke-width:0.24747905">(15 &gt; 10)</tspan></text>
+    <rect
+       style="opacity:1;fill:#e580ff;fill-opacity:1;stroke:#e580ff;stroke-width:0.56347263;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1090-5-3"
+       width="69.952095"
+       height="10.12592"
+       x="51.219688"
+       y="201.13188"
+       ry="2.6424263" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.89916229px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24747905"
+       x="50.858856"
+       y="209.9968"
+       id="text14-7-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan12-1-5-1"
+         x="50.858856"
+         y="209.9968"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;fill:#000000;stroke-width:0.24747905">((25 &gt; 3)    (10 &lt; 5))=</tspan></text>
+    <g
+       transform="matrix(0.41773435,0,0,0.41773435,82.025323,203.30277)"
+       id="ID0.7293403940275311-2">
+      <g
+         id="layer1-3-3">
+        <g
+           id="text10-75">
+          <path
+             style="fill:#003fff;stroke:none;stroke-width:2.32666159"
+             inkscape:connector-curvature="0"
+             id="path9-9"
+             d="M -5.574,39.692 -70.757,76.991 V 54.924 L -44.291,39.728 -70.757,24.605 V 2.538 Z"
+             transform="matrix(1.4872706e-4,0.24039923,0.24039923,-1.4872706e-4,-0.5,17.5)" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.40688748,0,0,0.40688748,42.510327,202.57478)"
+       id="ID0.6630116063170135">
+      <g
+         id="layer1-6">
+        <g
+           id="text10-7">
+          <path
+             style="fill:#003fff;stroke:none;stroke-width:2.32666159"
+             inkscape:connector-curvature="0"
+             id="path9-5"
+             d="M -5.574,39.692 -70.757,76.991 V 54.924 L -44.291,39.728 -70.757,24.605 V 2.538 Z"
+             transform="matrix(1.5269185e-4,-0.24680784,0.24680784,1.5269185e-4,0.05,-1.3)" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g5611"
+       transform="matrix(0.59189176,0,0,0.59189176,-25.090839,149.77671)">
+      <g
+         id="g5609">
+        <g
+           id="g5607">
+          <path
+             transform="matrix(1.4872706e-4,0.24039923,0.24039923,-1.4872706e-4,-0.5,17.5)"
+             d="M -5.574,39.692 -70.757,76.991 V 54.924 L -44.291,39.728 -70.757,24.605 V 2.538 Z"
+             id="path5605"
+             inkscape:connector-curvature="0"
+             style="fill:#003fff;stroke:none;stroke-width:2.32666159" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g5619"
+       transform="matrix(0.59189176,0,0,-0.59189176,56.082378,150.70123)">
+      <g
+         id="g5617">
+        <g
+           id="g5615">
+          <path
+             transform="matrix(1.4872706e-4,0.24039923,0.24039923,-1.4872706e-4,-0.5,17.5)"
+             d="M -5.574,39.692 -70.757,76.991 V 54.924 L -44.291,39.728 -70.757,24.605 V 2.538 Z"
+             id="path5613"
+             inkscape:connector-curvature="0"
+             style="fill:#003fff;stroke:none;stroke-width:2.32666159" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.59189176,0,0,0.59189176,109.73894,174.72343)"
+       id="ID0.7293403940275311-6">
+      <g
+         id="layer1-3-0">
+        <g
+           id="text10-6">
+          <path
+             style="fill:#003fff;stroke:none;stroke-width:2.32666159"
+             inkscape:connector-curvature="0"
+             id="path9-2"
+             d="M -5.574,39.692 -70.757,76.991 V 54.924 L -44.291,39.728 -70.757,24.605 V 2.538 Z"
+             transform="matrix(1.4872706e-4,0.24039923,0.24039923,-1.4872706e-4,-0.5,17.5)" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g6155"
+       transform="matrix(0.59156292,0,0,0.59156292,71.72539,143.50058)">
+      <g
+         id="g6153">
+        <g
+           id="g6151">
+          <path
+             transform="matrix(0.50150192,0,0,0.50150192,-4.5,-23.7)"
+             d="m 9.962,62.076 h 7.421 c 0.441,-1.95 1.761,-4.591 4.403,-4.591 4.717,0 7.17,4.591 14.34,4.591 7.862,0 12.013,-8.176 12.075,-14.277 h -7.484 c -0.629,2.39 -2.013,5.283 -4.717,5.283 -3.648,0 -6.918,-4.654 -14.214,-4.654 -8.176,0 -11.824,8.239 -11.824,13.648 z"
+             id="path6149"
+             inkscape:connector-curvature="0"
+             style="fill:#003fff;stroke:none;stroke-width:1.57235765" />
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
