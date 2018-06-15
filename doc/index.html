@@ -11,6 +11,20 @@
 	<div class="container">
 	<h1>Manual de "Logic-man, o jogo"</h1>
 
+    <h3>Roteiro</h3>
+    <ul>
+        <li><a href="#iniciando">Iniciando</a></li>
+        <li><a href="#jogando">Jogando</a>
+            <ul>
+                <li><a href="">Pedindo ajuda</a></li>
+                <li><a href="">Ganhando pontos</a></li>
+            </ul>
+        </li>
+        <li><a href="#mensagens">Mensgens</a></li>
+    </ul>
+
+    <h3 id="iniciando">Iniciando</h3>
+
 	<p>Abaixo é exibida a tela inicial do jogo</p>
 
     <div align="center">
@@ -55,7 +69,7 @@
         </figure>
     </div>
 
-    <h3>Jogando...</h3>
+    <h3 id="jogando">Jogando...</h3>
 
     <p>Ao iniciar o jogo o jogador é redirecionado para o ambiente onde se passa o roteiro do jogo, naturalmente ele se inicia no nível 1, sua interface é mostrada na figura abaixo:</p>
 
@@ -153,11 +167,21 @@
 
     <p>Ao passar de nível ele será redirecionado para o nível seguindo, seguindo as mesmas regras, mas agora em um ambiente diferente do anterior.</p>
 
-    FOTO DO NÌVEL 2 COM MONSTRO
+    <div align="center">
+        <figure>
+            <img class="thumbnail zoom figura" src="img/nivel-2.png" alt="">   
+            <figcaption>Nível 2</figcaption>
+        </figure>
+    </div>    
 
     <p>No nível 2 a dificuldade aumenta, tanto na dificuldade das questões, como também para percorrer os corredores, agora temos um monstrinho na sua perseguição.</p>
 
-    FOTO DO NÌVEL 3 (enfatizando o monstro)
+    <div align="center">
+        <figure>
+            <img class="thumbnail zoom figura" src="img/nivel-3.png" alt="">   
+            <figcaption>Nível 3</figcaption>
+        </figure>
+    </div>
 
     <p>No nível 3 a dificuldade segue aumentando proporcionalmente, agora são 2 (dois) monstros perseguindo o jogador, visto que esse é o nível final do jogo.</p>
 
@@ -165,19 +189,39 @@
 
     <p>Para passar de nível o jogador deve acumular pontos, para isso deve responder as perguntas escondidas em algumas portas, isso é feito quando o jogador entra em contato com a porta.</p>
 
-    FOTO TOCANDO NA PORTA
+    <div align="center">
+        <figure>
+            <img class="thumbnail zoom figura" src="img/tocando-porta.png" alt="">   
+            <figcaption>Abrindo porta</figcaption>
+        </figure>
+    </div>
 
     <p>É exibido então uma mensagem, perguntando se o jogador deseja abrir aquela porta.</p>
 
-    FOTO DA PERGUNTA PARA ABRIR A PORTA
+    <div align="center">
+        <figure>
+            <img class="thumbnail zoom figura" src="img/pergunta-abrir.png" alt="">   
+            <figcaption>Confirmando</figcaption>
+        </figure>
+    </div>
 
     <p>Caso o jogador escolha "SIM", é exibido para ele o tempo que ele terá para responder a pergunta a seguir.</p>
 
-    FOTO DO AVISO DE TEMPO
+    <div align="center">
+        <figure>
+            <img class="thumbnail zoom figura" src="img/msg-tempo.png" alt="">   
+            <figcaption>Avisando tempo para resposta</figcaption>
+        </figure>
+    </div>
 
-    <p>Só então a pergunta é exibida para ele.</p>
+    <p>Só então a pergunta é exibida para ele:</p>
 
-    FOTO DA PERGUNTA
+    <div align="center">
+        <figure>
+            <img class="thumbnail zoom figura" src="img/pergunta.png" alt="">   
+            <figcaption>Pergunta</figcaption>
+        </figure>
+    </div>
 
     <p>Na tela de pergunta são exibidas as seguintes informações:</p>
 
@@ -187,35 +231,64 @@
         <li>Tempo restante para a porta se fechar.</li>
     </ol>
 
+    <div align="center">
+        <figure>
+            <img class="thumbnail zoom figura" src="img/pergunta-resposta.png" alt="">   
+            <figcaption>Respondendo</figcaption>
+        </figure>
+    </div>
+
     <p>Quando o tempo para resposta chegar ao fim, será exibido uma mensagem comunicando se ele acertou ou errou a questão.</p>
 
     <p>Caso acerte, o jogador ganha 10 pontos e a porta se abrirá e o jogador poderá adentra-la, caso contrário ela permanecerá fechada e ele perde 1 vida.</p>
 
-    FOTO DA PORTA ABERTA
+    <div align="center">
+        <figure>
+            <img class="thumbnail zoom figura" src="img/porta-aberta.png" alt="">   
+            <figcaption>Porta aberta</figcaption>
+        </figure>
+    </div>
 
-    <h3>Mensagens durante o jogos</h3>
+    <h3 id="mensagens">Mensagens durante o jogos</h3>
 
     <p>Durante o jogo, o jogador será alertado sobre diversas condições/informações, são elas:</p>
 
-    <p>Mensagem de quanto tempo o jogador terá para responder determinada questão.</p>
-
-    FOTO DO AVISO DE TEMPO
-
     <p>Mensagem de parabéns quando o jogador acertar determinada pergunta.</p>
 
-    FOTO DOS PARABÉNS
+    <div align="center">
+        <figure>
+            <img class="thumbnail zoom figura" src="img/msg-parabens.png" alt="">   
+            <figcaption>Mensagem de parabéns</figcaption>
+        </figure>
+    </div>
 
     <p>Mensagem de erro quando o jogador errar determinada pergunta.</p>
 
-    FOTO DE ERRRO DE QUESTAO
+    <div align="center">
+        <figure>
+            <img class="thumbnail zoom figura" src="img/msg-erro.png" alt="">   
+            <figcaption>Mensagem de erro</figcaption>
+        </figure>
+    </div>
 
     <p>Mensagem de game-over, quando o jogador perder todas as suas vidas.</p>
 
-    FOTO DO GAME-OVER
+    <div align="center">
+        <figure>
+            <img class="thumbnail zoom figura" src="img/game-over.png" alt="">   
+            <figcaption>Game-over</figcaption>
+        </figure>
+    </div>
 
     <p>Mensagem de créditos, é exibidad quando o jogador consegue chegar ao fim do jogo.</p>
 
-    FOTO DOS CREDITOS
+    <div align="center">
+        <figure>
+            <img class="thumbnail zoom figura" src="img/the-end.png" alt="">   
+            <figcaption>Créditos</figcaption>
+        </figure>
+    </div>
+
 	</div>
 </body>
 </html>
