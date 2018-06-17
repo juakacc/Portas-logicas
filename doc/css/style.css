@@ -61,3 +61,8 @@ increase left & right margins a bit**/
 .real {
     max-width: 100%;
 }
+
+.sem-zoom {
+    max-width:480px;
+    height: auto;
+}
