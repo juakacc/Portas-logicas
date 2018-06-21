@@ -52,6 +52,7 @@ Voltado principalmente para alunos do ensino fundamental II (6º ao 9º ano) e e
 - A cada 3 acertos o jogador verá uma vida disponível;
 - Algumas portas poderão guardar frutas, que consistem em um adicional de pontos para o jogador;
 - Uma colisão com o monstro ou o erro em uma pergunta, resultam na perda de uma vida.
+
 ### Regras no Boss
 - O chefão morrerá com 3 ataques certeiros do logic-man;
 - Para responder vocẽ deve pegar o escudo, para se proteger e partir para cima do monstro;
