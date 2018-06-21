@@ -27,6 +27,8 @@ Voltado principalmente para alunos do ensino fundamental II (6º ao 9º ano) e e
   
   A partir do nível 2 (dois) o jogador deve também se esquivar do monstro que percorre os corredores, dificultando assim, um pouco, a sua vida. Passando para o nível 3 (três) surge outro monstro, forçando a agilidade do jogador. 
 
+  No nível 3 para concluir o jogo é necessário passar pelo chefão, que se encontra protegendo o cano de saída, para derrotá-lo o jogador deve responder corretamente 3 perguntas feitas por ele, caso erre, ele perde uma vida. Ao derrotá-lo o caminho para o cano de saída ficará livre. :D
+  
 ## Funcionalidades/Características
 ### O jogo planeja oferecer as seguintes funcionalidades:
 - O ambiente do jogo será um labirinto em 2D, o qual será percorrido pelo personagem, o seu objetivo será sair do labirinto, entrando no túnel, possibilitando ao jogador avançar para o próximo nível.
@@ -38,6 +40,7 @@ Voltado principalmente para alunos do ensino fundamental II (6º ao 9º ano) e e
 - Existirá um banco de perguntas sobre o assunto abordado, cada pergunta será sorteada neste banco de dados para que as mesmas não se repitam com frequência, sendo diferenciadas dependendo da fase do jogo em que o jogador se encontre.
 - Ao longo do jogo o jogador poderá “solicitar ajuda” quantas vezes se ver necessário, que vai consistir em algum conceito envolvido na questão atual, com o intuito de explanar para o aluno a sua possível dúvida.
 - Os níveis 2 (dois) e 3 (três) contém "monstros", buscando aumentar a dificuldade e diversão do jogo.
+- Chefão para conclusão do jogo. (opcional)
 
 ## Regras
 - Recolha os conectivos para responder as perguntas;
@@ -49,3 +52,10 @@ Voltado principalmente para alunos do ensino fundamental II (6º ao 9º ano) e e
 - A cada 3 acertos o jogador verá uma vida disponível;
 - Algumas portas poderão guardar frutas, que consistem em um adicional de pontos para o jogador;
 - Uma colisão com o monstro ou o erro em uma pergunta, resultam na perda de uma vida.
+
+### Regras no Boss
+- O chefão morrerá com 3 ataques certeiros do logic-man;
+- Para responder vocẽ deve pegar o escudo, para se proteger e partir para cima do monstro;
+- Caso erre e esteja com o escudo, será protegido;
+- Caso esteja sem o escudo e seja capturado pelo monstro, você retornará ao local inicial e perderá uma vida;
+- Ao entrar na sala para a batalha final não é possível sair dela.
