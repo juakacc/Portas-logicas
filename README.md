@@ -5,10 +5,14 @@ Repositório para construção do projeto "Logic-man, o jogo"
 
 O desenvolvimento contemplará o projeto das disciplinas de Software educacional (Professor Alysson Milanez) e Linguagem de programação para educação (Professora Alanna Coêlho). A equipe é formada por @juakacc @geovanef46 @PatrickAnggellis @Clearlison
 
-### Downloads 
-1. [v1.5.0](https://github.com/juakacc/logic-man/releases/download/v1.5.0/logic-man.exe) - Recomendada
+Sugestões, bugs? Entre em contato conosco, qualquer contato será bem-vindo. [Contato](https://goo.gl/forms/MjsLlm6QN5JLlz6o1)
 
-2. [v1.0.0](https://github.com/juakacc/logic-man/releases/download/v1.0.0/logic-man.exe)
+### Downloads 
+1. [v1.6.0](https://github.com/juakacc/logic-man/releases/download/v1.6.0/logic-man.exe) [Recomendada]
+
+2. [v1.5.0](https://github.com/juakacc/logic-man/releases/download/v1.5.0/logic-man.exe)
+
+3. [v1.0.0](https://github.com/juakacc/logic-man/releases/download/v1.0.0/logic-man.exe)
 
 ### Manual
 O manual do jogo pode ser acessado [aqui](https://juakacc.github.io/logic-man/doc)
